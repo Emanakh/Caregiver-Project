@@ -37,8 +37,6 @@ Caregiver Website is a platform that connects customers with caregivers, babysit
 - **Edit Profile**: Allows administrators to modify their profile information.
 
 ## System Architecture
-<p align="center">
- ![image](https://github.com/Emanakh/Caregiver-Project/assets/104126088/d923b222-7ca1-4318-b184-4b89a78f7894)
+![image](https://github.com/Emanakh/Caregiver-Project/assets/104126088/c83e2380-5071-451a-8b4a-1771fec84e0f)
 
-</p>
 
