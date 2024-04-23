@@ -39,4 +39,23 @@ Caregiver Website is a platform that connects customers with caregivers, babysit
 ## System Architecture
 ![image](https://github.com/Emanakh/Caregiver-Project/assets/104126088/c83e2380-5071-451a-8b4a-1771fec84e0f)
 
+##Database Diagram
+![image](https://github.com/Emanakh/Caregiver-Project/assets/104126088/253a5f1d-8816-41e2-8e18-72c06eaf9ed1)
 
+## Technology Stack
+Backend:
+### Foundational Technologies: C# , ASP.NET Web API
+
+● Backend Implemented a 3-tier architecture featuring distinct layers like Presentation Layer (Controllers), Business
+Layer (Repositories), and Data Access Layer.
+● Entity Framework Core as a Database using Mapping mechanisms as TPH.
+● Implementing design patterns as dependency Injection, generic repository and SOLID principles.
+● Ensured security with JWT authentication and Identity for User Management.
+● Technology Stack: ASP.NET Core 8, Entity Framework Core, RESTful APIs, MS SQL Server, JWT Authentication,
+Angular, Identity, HTML, CSS, Bootstrap, TypeScript.
+
+## Database and Integrations:
+1- SQL Server
+2- Stripe Payment
+3- Twilio (Sending Messages)
+4- MailKit (Sending Mails)
